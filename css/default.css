@@ -103,14 +103,16 @@ p.verasans {
 
 /* Page styling */
 
+/*
 body
 {
     font-family: "BitstreamVeraSansRoman", Verdana, Geneva, Arial, Helvetica, sans-serif;
     font-size: small;
     color: black;
     margin: 0px;
-    background: black url('//cdn.gbraad.nl/images/background.png') no-repeat fixed 0 0; /* rgb(255, 140, 0); */
+    background: black url('//cdn.gbraad.nl/images/background.png') no-repeat fixed 0 0;
 }
+*/
 
 p, td, th
 {
@@ -143,6 +145,7 @@ hr {
     background-color: #339966;
 }
 
+/*
 #main-wrapper {
     margin: 42px auto;
     position: relative;
@@ -196,16 +199,19 @@ li {
     padding-top: 0px;
     margin-top: 0px;
 }
+*/
 
 acronym, abbr, .help {
     border-bottom: 1px dotted #333;
     cursor: help;
 }
 
+/*
 .photo {
     float: right;
     margin: 10px;
 }
+*/
 
 /* Color */
 
