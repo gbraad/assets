@@ -1,6 +1,5 @@
 future:      true
 lsi:         false
-highlighter: true
 markdown:    kramdown
 permalink:   /:title.html
 
