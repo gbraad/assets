@@ -583,9 +583,9 @@ a img { border: none; }
 
 footer { padding: 75px 0 30px 0; text-align: center; }
 footer ul { list-style: none; margin: 0 auto; overflow: hidden; padding: 0; width: 204px; }
-footer ul li { float: left; font-family: szglyph !important; font-size: 2.2em; height: 48px; margin: 0 30px 12px 0; width: 48px; }
+footer ul li { float: left; font-size: 2.2em; height: 48px; margin: 0 30px 12px 0; width: 48px; }
 footer ul li:last-child { margin-right: 0; }
-footer ul li a { background: #cccccc; color: #fff; display: block; height: 48px; line-height: 48px; overflow: hidden; text-decoration: none; -webkit-transition: all .3s ease; width: 48px; behavior: url("/responsive/stylesheets/PIE.htc"); }
+footer ul li a { background: #cccccc; color: #fff; display: block; height: 48px; line-height: 48px; padding-top: 5px; overflow: hidden; text-decoration: none; -webkit-transition: all .3s ease; width: 48px; behavior: url("/assets/css/PIE.htc"); }
 footer ul li a:hover, footer ul li a:focus, footer ul li a:active { background: #333; color: #fff; }
 
 .feature.second, .feature.fourth, .feature.sixth { background-color: #ddd; }
