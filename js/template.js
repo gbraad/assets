@@ -10,7 +10,7 @@
 (function($){
 	$(document).ready(function(){
 	
-		$(".banner-image").backstretch('images/banner.jpg');
+		$(".banner-image").backstretch('//cdn.gbraad.nl/images/banner.jpg');
 		
 		// Fixed header
 		//-----------------------------------------------
