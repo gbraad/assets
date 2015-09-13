@@ -1,0 +1,16 @@
+/*
+Theme Name: Worthy - Free Powerful Theme by HtmlCoder
+Author:HtmlCoder
+Author URI:http://www.htmlcoder.me
+Version:1.0.0
+Created:November 2014
+License: Creative Commons Attribution 3.0 License (https://creativecommons.org/licenses/by/3.0/)
+File Description: Place here your custom CSS styles
+*/
+
+footer { text-align: center; }
+footer ul { list-style: none; margin: 0 auto; overflow: hidden; padding: 0; width: 204px; }
+footer ul li { float: left; font-size: 2.2em; height: 48px; margin: 0 30px 12px 0; width: 48px; }
+footer ul li:last-child { margin-right: 0; }
+footer ul li a { background: #cccccc; color: #fff; display: block; height: 48px; line-height: 48px; padding-top: 4px; overflow: hidden; text-decoration: none; -webkit-transition: all .3s ease; width: 48px; behavior: url("/assets/css/PIE.htc"); }
+footer ul li a:hover, footer ul li a:focus, footer ul li a:active { background: #333; color: #fff; }
