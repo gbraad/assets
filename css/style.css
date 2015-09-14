@@ -555,12 +555,7 @@ textarea {
 	float: left;
 }
 
-#logo::after {
-	content: url('//cdn.gbraad.nl/images/logo.svg');
-}
-.no-svg #logo::after {
-	content: url('//cdn.gbraad.nl/images/logo.png');
-}
+
 .site-name {
 	font-size: 36px;
 	-webkit-transition: all 0.3s ease-in-out;
