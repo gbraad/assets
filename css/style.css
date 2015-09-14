@@ -517,6 +517,7 @@ textarea {
 .fixed-header-on .site-name {
 	/*font-size: 24px;*/
 }
+
 .fixed-header-on .logo {
 	/*-webkit-transform: scale(1.0);*/
 	/*transform: scale(1.0);*/
@@ -552,6 +553,13 @@ textarea {
 .logo,
 .site-name-and-slogan {
 	float: left;
+}
+
+#logo::after {
+	content: url('//cdn.gbraad.nl/images/logo.svg');
+}
+.no-svg #logo::after {
+	content: url('//cdn.gbraad.nl/images/logo.png');
 }
 .site-name {
 	font-size: 36px;
