@@ -11,6 +11,7 @@ footer ul li a { background: #cccccc; color: #fff; display: block; height: 48px;
 footer ul li a:hover, footer ul li a:focus, footer ul li a:active { background: #333; color: #fff; }
 
 .blink {
+  color: white;
   animation: blink-animation 1s steps(2, start) infinite;
   -webkit-animation: blink-animation 1s steps(2, start) infinite;
 }
