@@ -1,0 +1,4 @@
+Favicons
+========
+
+All rights reserved
