@@ -126,16 +126,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6"
-     inkscape:cx="14.758785"
+     inkscape:cx="11.633785"
      inkscape:cy="11.688033"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="715"
-     inkscape:window-height="500"
-     inkscape:window-x="1220"
-     inkscape:window-y="516"
+     inkscape:window-height="504"
+     inkscape:window-x="805"
+     inkscape:window-y="481"
      inkscape:window-maximized="0"
      showguides="false" />
   <metadata
@@ -146,7 +146,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -155,49 +155,45 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1015.3622)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="142.85715"
-       y="823.79077"
-       id="text4153"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4155"
-         x="142.85715"
-         y="823.79077" /></text>
     <g
-       transform="matrix(0.24232511,0,0,0.24232511,-4.6830709,826.69554)"
-       id="g3511">
+       id="g4187">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4153"
+         y="823.79077"
+         x="142.85715"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="823.79077"
+           x="142.85715"
+           id="tspan4155"
+           sodipodi:role="line" /></text>
       <circle
-         r="75.446152"
-         cy="854.91205"
-         cx="95.669289"
+         r="18.282497"
+         cy="1033.8622"
+         cx="18.5"
          inkscape:export-ydpi="90.709999"
          inkscape:export-xdpi="90.709999"
          inkscape:export-filename="/home/gbraad/Projects/B2G-FxOS-hardware-system/style/icons/icon_512.png"
          id="path2989-9"
-         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:0.36348766;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <circle
+         transform="matrix(0.24232511,0,0,0.24232511,-4.6830709,826.69554)"
          r="59.621181"
          cy="854.91205"
          cx="95.669289"
          id="path3759-5"
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.40049756;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3499)" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text4157-85"
-         y="891.59558"
-         x="38.692726"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:112.5px;line-height:125%;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:112.5px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT Bold';fill:#ff8c00;fill-opacity:1"
-           y="891.59558"
-           x="38.692726"
-           id="tspan4159-8"
-           sodipodi:role="line">G</tspan></text>
       <g
-         transform="matrix(0.3,0,0,0.3,18.869288,616.00339)"
+         id="text4157-85"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.2615757px;line-height:125%;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+        <path
+           id="path4177"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.2615757px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT Bold';fill:#ff8c00;fill-opacity:1"
+           d="m 21.318982,1029.0676 -2.502527,2.3427 q -0.785368,-1.3577 -1.943452,-2.0233 -1.158085,-0.6789 -2.42266,-0.6789 -2.049943,0 -3.567433,1.5575 -1.5041785,1.5574 -1.5041785,3.6739 0,2.2496 1.5041785,3.8203 1.51749,1.5575 3.647301,1.5575 1.158084,0 2.22299,-0.5857 1.078216,-0.5857 1.730471,-2.1964 l -4.13982,0 0,-3.4077 8.066658,0 0,2.2629 q 0,1.7438 -1.198018,3.7538 -1.198019,1.9967 -3.154782,2.9285 -1.956764,0.9185 -3.953461,0.9185 -3.620678,0 -6.1098944,-2.6223 -2.4892162,-2.6224 -2.4892162,-6.4826 0,-3.6607 2.5557727,-6.2564 2.5690839,-2.5957 6.1764509,-2.5957 4.605715,0 7.08162,4.0334 z" />
+      </g>
+      <g
+         transform="matrix(0.07269753,0,0,0.07269753,-0.11056861,975.96863)"
          id="text4157-8-1"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:375px;line-height:125%;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT Bold';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient5787);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
         <path
@@ -207,20 +203,16 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:375px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT Bold';fill:url(#linearGradient5789);fill-opacity:1"
            d="m 294.20908,730.26638 -34.42382,32.22657 c -7.20215,-12.45117 -16.11329,-21.72852 -26.7334,-27.83204 -10.62012,-6.22558 -21.72852,-9.33837 -33.3252,-9.33837 -2.92969,-50.53711 0,0 -2.92969,-50.53711 42.23633,0 74.70704,18.49365 97.41211,55.48095 z" />
       </g>
-      <text
-         sodipodi:linespacing="125%"
-         id="text4721-3"
-         y="891.25488"
-         x="89.154999"
-         style="font-style:normal;font-weight:normal;font-size:93.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:112.5px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT Bold';fill:#0f93f9;fill-opacity:1"
-           y="891.25488"
-           x="89.154999"
-           id="tspan4723-9"
-           sodipodi:role="line">B</tspan></text>
       <g
-         transform="matrix(0.3,0,0,0.3,18.723857,615.55491)"
+         id="text4721-3"
+         style="font-style:normal;font-weight:normal;font-size:22.71797943px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+        <path
+           id="path4174"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.2615757px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT Bold';fill:#0f93f9;fill-opacity:1"
+           d="m 18.638585,1025.1912 5.098234,0 q 3.194716,0 4.366112,1.3311 1.171395,1.3312 1.171395,3.1149 0,1.1314 -0.425962,1.9168 -0.425962,0.7721 -1.371065,1.5707 1.810339,0.6257 2.555772,1.8503 0.758745,1.2113 0.758745,2.5957 0,2.4094 -1.650603,3.7538 -1.650603,1.3444 -4.645649,1.3444 l -5.856979,0 0,-17.4777 z m 3.767102,2.9418 0,3.8203 0.865236,0 q 0.958414,0 1.610669,-0.599 0.652254,-0.6123 0.652254,-1.5042 0,-0.7188 -0.638943,-1.2113 -0.638943,-0.5058 -1.597358,-0.5058 l -0.891858,0 z m 0,6.7888 0,4.8053 1.357754,0 q 3.114848,0 3.114848,-2.2629 0,-1.2246 -0.758745,-1.8769 -0.758745,-0.6655 -2.169744,-0.6655 l -1.544113,0 z" />
+      </g>
+      <g
+         transform="matrix(0.07269753,0,0,0.07269753,-0.14581019,975.85995)"
          id="text4157-6-3"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:375px;line-height:125%;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5855)">
         <path
