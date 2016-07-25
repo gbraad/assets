@@ -550,11 +550,11 @@ textarea {
 	-ms-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
 }
+
 .logo,
 .site-name-and-slogan {
 	float: left;
 }
-
 
 .site-name {
 	font-size: 36px;
@@ -599,30 +599,6 @@ textarea {
 	-o-transition: all 0.2s ease-in-out;
 	-ms-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
-}
-.social-links li.twitter a:hover {
-	color: #55acee;
-}
-.social-links li.skype a:hover {
-	color: #00aff0;
-}
-.social-links li.linkedin a:hover {
-	color: #0976b4;
-}
-.social-links li.googleplus a:hover {
-	color: #dd4b39;
-}
-.social-links li.youtube a:hover {
-	color: #b31217;
-}
-.social-links li.flickr a:hover {
-	color: #ff0084;
-}
-.social-links li.facebook a:hover {
-	color: #3b5998;
-}
-.social-links li.pinterest a:hover {
-	color: #cb2027;
 }
 
 /* Isotope Items
