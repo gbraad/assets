@@ -11,7 +11,7 @@ footer ul.social-links li a { background: #cccccc; color: #fff; display: block; 
 footer ul.social-links li a:hover, footer ul li a:focus, footer ul li a:active { background: #333; color: #fff; }
 
 footer ul.donate-links { list-style: none; margin: 0 auto; overflow: hidden; padding: 0; }
-footer ul.donate-links li { float: left; font-size: 2.2em; }
+footer ul.donate-links li { float: left; font-size: 2.2em; margin-right: 10px }
 footer ul.donate-links li:last-child { margin-right: 0; }
 
 .blink {
